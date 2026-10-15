@@ -1,16 +1,26 @@
-## Hi there 👋
+# Kyeongkyu Lee
 
-<!--
-**im209/im209** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**M.S. Student | Machine Intelligence Lab, Inha University**
 
-Here are some ideas to get you started:
+### About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a master's student at Inha University, conducting research in artificial intelligence and deep learning.
+
+My work focuses on multimodal AI and reliable language-model-based systems, with growing interests in LLM agents and efficient model communication.
+
+### Research Interests
+
+- **LLM Agents** — Multi-agent systems and agent collaboration
+- **Multimodal AI** — Vision-language models and multimodal learning
+- **Efficient LLMs** — KV-cache communication and efficient inference
+
+### Publications
+
+**2026**
+
+**Kyeongkyu Lee**, Seonghwan Yoon, and Hongki Lim.  
+**CLARIFID: Improving radiology report generation by reinforcing clinically accurate impressions and enforcing detailed findings.**  
+*Expert Systems with Applications*, Vol. 303, Article 130633, 2026.  
+[Paper](https://doi.org/10.1016/j.eswa.2025.130633) · [arXiv](https://arxiv.org/abs/2507.17234)
+
+## Projects
